@@ -1,3 +1,4 @@
-##Welcome to sherlocker bloger Pages
-this web support Android apk ,wall paper，the news
-if you like，please 
+##欢迎来到sherloker的博客主页
+  本博将会持续利用github平台，发布绝地求生新闻，安卓软件
+以及精选大陆壁纸，不接受任何引战项目
+  严格遵守各地法律法规，信仰各地宗教文化，不带有任何歧视，所有人一视同仁享受本博服务
